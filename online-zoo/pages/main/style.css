@@ -679,6 +679,9 @@ input[type=range] {
     margin-left: 15px;
     text-decoration: none;   
 }
+.social-name:hover {
+    color: orange;
+}
 .footer-nav-link {
     display: flex;
     align-items: flex-end;
